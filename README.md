@@ -12,7 +12,6 @@
 
 <br/>  
 
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
@@ -41,9 +40,9 @@
 
 </td><td valign="top" width="33%">
 
-</td></tr>
 
 
+</td></tr></table>  
 
 <br/>  
 
@@ -54,18 +53,8 @@
 </a>  
   
 
-
-
-  
-
 <br/>  
 
-  
-
-<br/>  
-
-
-<br />
 
 
 
