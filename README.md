@@ -1,8 +1,4 @@
-### Hi there 👋
-
-  
-
-### <div align="center">I'm Emrah, I am a J.R Java Developer  👨‍💻 </div>  
+### Hi there 👋 ### <div align="center">I'm Emrah, I am a J.R Java Developer  👨‍💻 </div>  
   
 
 - 🔭 I have passed the Oracle Certified Associate (OCA) Java SE 8  
@@ -71,8 +67,7 @@
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
 
 
 
