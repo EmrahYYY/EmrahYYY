@@ -1,4 +1,4 @@
-### Hi there 👋 ### <div align="center">I'm Emrah, I am a J.R Java Developer  👨‍💻 </div>  
+<div align="center">### Hi there 👋I'm Emrah, I am a J.R Java Developer  👨‍💻 </div>  
   
 
 - 🔭 I have passed the Oracle Certified Associate (OCA) Java SE 8  
@@ -43,7 +43,6 @@
 
 
 
-</td></tr></table>  
 
 <br/>  
 
