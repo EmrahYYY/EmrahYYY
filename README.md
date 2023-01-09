@@ -1,4 +1,4 @@
-<div align="center">### Hi there 👋I'm Emrah, I am a J.R Java Developer  👨‍💻 </div>  
+<div align="center">Hi there 👋I'm Emrah, I am a J.R Java Developer  👨‍💻 </div>  
   
 
 - 🔭 I have passed the Oracle Certified Associate (OCA) Java SE 8  
@@ -46,6 +46,7 @@
 
 <br/>  
 
+</td><td valign="top" width="33%">
 
 ## Connect with me  
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/-emrah-yavuz/" target="_blank">
