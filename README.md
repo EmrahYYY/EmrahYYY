@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
   
 
 ### <div align="center">I'm Emrah, I am a J.R Java Developer  👨‍💻 </div>  
@@ -61,19 +58,7 @@
 </a>  
   
 
-<br/>  
 
-
-## Github Stats  
-  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
 
   
 
