@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   
   <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 
-
+</td><td valign="top" width="33%">
 
 
 
@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 
 
-</td><td valign="top" width="33%">
+
 
 
 
