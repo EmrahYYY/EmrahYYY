@@ -41,12 +41,12 @@
 
 </td><td valign="top" width="33%">
 
+</td></tr></table>  
 
 
 
 <br/>  
 
-</td><td valign="top" width="33%">
 
 ## Connect with me  
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/-emrah-yavuz/" target="_blank">
