@@ -5,9 +5,7 @@
   
 
 - 🌱 I’m currently learning Javascript, React  
-  
 
-- ❓You can check [my portfolio](https://emrahyyy.github.io/my_portfolio/) and  ask me about anything  
   
 
 <br/>  
